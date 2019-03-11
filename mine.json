@@ -1,0 +1,14 @@
+[
+  {
+    "ip": "127.0.0.1",
+    "port": "8080",
+    "type": "http",
+    "sub_domain": "asdfg959"
+  },
+  {
+    "ip": "127.0.0.1",
+    "port": "8081",
+    "type": "http",
+    "sub_domain": "asdfg325"
+  }
+]

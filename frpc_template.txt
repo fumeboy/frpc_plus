@@ -1,0 +1,13 @@
+[common]
+server_addr = {{var1}}
+server_port = {{var2}}
+token = {{var3}}
+tcp_mux = true
+user = {{var4}}
+login_fail_exit = false
+log_file = ./{{var1}}/frpc.log
+log_level = info
+log_max_days = 3
+protocol = tcp
+
+{{var5}}

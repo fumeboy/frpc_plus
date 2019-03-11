@@ -1,0 +1,14 @@
+[
+  {
+    "domain": "freenat.club",
+    "port": "7000",
+    "token": "frp888",
+    "username": "asdfg891"
+  },
+  {
+    "domain": "h2o2.cc",
+    "port": "6443",
+    "token": "password",
+    "username": "asdfg228"
+  }
+]
